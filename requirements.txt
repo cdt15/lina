@@ -1,0 +1,5 @@
+numpy
+scipy
+statsmodels
+factor_analyzer
+igraph
